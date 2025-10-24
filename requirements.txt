@@ -1,0 +1,7 @@
+# requirements.txt
+numpy
+pandas
+plotly
+openpyxl
+streamlit
+pydeck
